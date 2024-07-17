@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(13, 48, 245); 
+}
+
+p {
+    color: rgb(106, 85, 125);
+}
+
+#p2 {
+    color: black;
+}
+
+#link {
+    color: rgb(202, 13, 180)
+}
+
+#sombra {
+    text-shadow: 0.10pc 0.10px red;
+    color: blue;
+}
+
+.move {
+   width: 10px;
+   height: 2px;
+   position:relative;
+    top: -200px;
+    left: 270px;
+    bottom: 0px;
+    right: 0px;
+}
+
+.imagem {
+    width: 250px;
+    height: 200px;
+    margin: 1px;
+}
+
