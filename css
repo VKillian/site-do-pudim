@@ -1,37 +1,142 @@
-h1 {
-    color: rgb(13, 48, 245); 
+
+
+#pudim {
+    width: 200px;
+    height: 200px;
 }
 
-p {
-    color: rgb(106, 85, 125);
-}
-
-#p2 {
-    color: black;
-}
-
-#link {
-    color: rgb(202, 13, 180)
-}
-
-#sombra {
-    text-shadow: 0.10pc 0.10px red;
-    color: blue;
-}
-
-.move {
-   width: 10px;
-   height: 2px;
-   position:relative;
-    top: -200px;
-    left: 270px;
+#texto {
+    position:relative;
+    top: -220px;
     bottom: 0px;
+    left: 210px;
     right: 0px;
 }
 
-.imagem {
-    width: 250px;
-    height: 200px;
-    margin: 1px;
+
+.playwrite-be-vlg-fonte {
+  font-family: "Playwrite BE VLG", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
+#leitec {
+    position:relative;
+    top: 10px;
+    bottom: 0px;
+    left: 8px;
+    right: 0px;
+    width: 60px;
+    height: 60px;
+}
+
+#textolc{
+    position:relative;
+    top: -50px;
+    bottom: 0px;
+    left: 70px;
+    right: 0px;
+    width: 1000px;
+    height: 0px;
+}
+
+#leite {
+    position:relative;
+    top: -15px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    width: 60px;
+    height: 60px;
+}
+
+#textol {
+    position:relative;
+    top: -70px;
+    bottom: 0px;
+    left: 70px;
+    right: 0px;
+    width: 1000px;
+    height: 0px;
+}
+
+#ovo {
+    position:relative;
+    top: -35px;
+    bottom: 0px;
+    left: 2px;
+    right: 0px;
+    width: 60px;
+    height: 60px;
+}
+
+#textoovo {
+    position:relative;
+    top: -90px;
+    bottom: 0px;
+    left: 70px;
+    right: 0px;
+    width: 1000px;
+    height: 0px;
+}
+
+.ingredientes {
+    position:relative;
+    top: -30px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    width: 200px;
+    height: 0px;
+}
+
+.caldam {
+    position:relative;
+    top: -40px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    width: 101px;
+    height: 0px;
+}
+
+#suggarft {
+    position:relative;
+    top: 0px;
+    bottom: 0px;
+    left: 4px;
+    right: 0px;
+    width: 60px;
+    height: 60px;
+}
+
+#waterft {
+    position:relative;
+    top: 0px;
+    bottom: 0px;
+    left: 4px;
+    right: 0px;
+    width: 60px;
+    height: 60px;
+}
+
+#suggartxt {
+    position:relative;
+    top: -55px;
+    bottom: 0px;
+    left: 70px;
+    right: 0px;
+    width: 1000px;
+    height: 0px;
+}
+
+#watertxt {
+    position:relative;
+    top: -55px;
+    bottom: 0px;
+    left: 70px;
+    right: 0px;
+    width: 1000px;
+    height: 0px;
+}
